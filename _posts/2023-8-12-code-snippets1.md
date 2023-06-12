@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Code snippets in a blog post
+title:  Code snippets in a blog post1
 categories: [HTML,Code]
 ---
 
