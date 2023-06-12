@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Code snippets in a blog post
+categories: [HTML,Code]
+---
+
 ```python
 !pip install -U numpy
 !pip install finance-datareader
